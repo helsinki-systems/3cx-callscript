@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=Call numbers from your desk phone
+Exec=helsinki-call %U
+MimeType=x-scheme-handler/tel
+Name=Helsinki Phone App
+Type=Application
+Version=1.4
